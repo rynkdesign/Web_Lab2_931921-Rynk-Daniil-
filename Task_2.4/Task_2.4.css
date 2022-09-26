@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+
+p{
+    background-color: blue;
+    color: white;
+}
+
+.in{
+    display: inline-block;
+    max-width: 600px;
+    text-align: left;
+}
+
+.out{
+    padding: 10px;
+    text-align: center;
+}
