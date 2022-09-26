@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    padding: 10px;
+    background-color: #EAEAEA;
+    height: 8vh;
+}
+
+aside{
+    width: 200px;
+    height: 100%;
+    float: left;
+    padding: 4px;
+    background-color: #c8fc98; 
+    margin-right: 10px;
+}
+
+p{
+    line-height: 150%;
+}
+
+main{
+    height: 88vh;
+}
+
+span{
+    font-style: italic;
+    color: red;
+}
+
+footer{
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+
+    background-color: black;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 4vh;
+}
+
+a{
+    color: yellow;
+}
+
+article{
+    padding: 4px;
+}
