@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+
+p{
+    background-color: blue;
+    color: white;
+}
+
+.in{
+    display: block;
+    height: 400px;
+    width: 600px;
+    margin: 0 auto;
+}
+
+.out{
+    padding: 10px;
+}
