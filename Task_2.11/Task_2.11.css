@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+}
+div{
+    border: 1px solid green;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
