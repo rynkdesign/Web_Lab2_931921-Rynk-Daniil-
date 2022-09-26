@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+}
+
+.out{
+    margin: 10px;
+}
+
+.in{
+    color: white;
+    background-color: blue;
+    width: 600px;
+    height: 522px;
+    font-size: 16px;
+    margin: 0 auto;
+}
+
+img{
+    float: right;
+    padding-left: 20px;
+    padding-bottom: 16px;
+}
